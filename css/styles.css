@@ -1,0 +1,15 @@
+/* primery color text #212121; */
+/* primery accent text #2196F3; */
+/* secondary accent text #FFFFFF; */
+/* secondary text color: #757575; */
+/* contacts color text in footer rgba(255, 255, 255, 0,6): */
+/* section color background: #2F303A; */
+/* filters button color background: #F5F4FA; */
+/* team color background: #F5F4FA; */
+/* main body color background: #FFFFFF; */
+/* hero & footer color background: #2F303A; */
+
+body {
+  color: #212121;
+  font-family: Roboto;
+}
