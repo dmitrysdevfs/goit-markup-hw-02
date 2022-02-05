@@ -8,8 +8,33 @@
 /* team color background: #F5F4FA; */
 /* main body color background: #FFFFFF; */
 /* hero & footer color background: #2F303A; */
+/* background: #FFFFFF99; */
+/* color: rgba(255, 255, 255, 0.6); */
 
+/* =======FONTS======= */
+/* Raleway 700 - Logo */
+/* Roboto 400 - text */
+/* Roboto 500 - menu */
+/* Roboto 700 - btn text */
+/* Roboto 900 - Hero Title */
+/* =======FONTS======= */
 body {
-  color: #212121;
-  font-family: Roboto;
+  font-family: 'Roboto', sans-serif;
+}
+
+.list {
+  list-style: none;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.logo {
+  font-family: Raleway;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
+  color: #2196f3;
 }
