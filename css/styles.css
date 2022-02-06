@@ -29,7 +29,7 @@ body {
 .link {
   text-decoration: none;
 }
-
+/* =======HEADER STYLES======= */
 .logo {
   font-family: Raleway;
   font-weight: 700;
@@ -38,3 +38,151 @@ body {
   letter-spacing: 0.03em;
   color: #2196f3;
 }
+
+.top-logo {
+  color: #000000;
+}
+
+.bottom-logo {
+  color: #ffffff;
+}
+
+.nav-list-link {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
+  color: #212121;
+}
+
+.nav-list-link:hover,
+.nav-list-link:focus,
+.current {
+  color: #2196f3;
+}
+
+.contacts-link {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
+  color: #757575;
+}
+
+/* =======END HEADER STYLES======= */
+/* =======HERO STYLES======= */
+.main-title {
+  font-size: 44px;
+  line-height: 1.36;
+  text-align: center;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+.modal-btn {
+  font-family: inherit;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.87;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.06em;
+  color: #ffffff;
+  background: #2196f3;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+  border-radius: 4px;
+  border-width: 0px;
+  cursor: pointer;
+}
+
+.modal-btn:hover,
+.modal-btn:focus {
+  background: #188ce8;
+}
+
+.hero-banner,
+.footer {
+  background: #2f303a;
+}
+
+.features-title {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #212121;
+}
+
+.features-description {
+  font-size: 14px;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+/* =======END HERO STYLES======= */
+
+.title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.17;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #212121;
+}
+
+/* =======WHAT WE DO======= */
+/* =======END WHAT WE DO======= */
+
+/* =======OUR TEAM======= */
+.team {
+  background: #f5f4fa;
+}
+
+.team-member-card {
+  width: 270px;
+  background: #ffffff;
+}
+
+.team-member-name {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.19;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #212121;
+}
+
+.team-member-position {
+  font-size: 16px;
+  line-height: 1.19;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+/* =======END OUR TEAM======= */
+
+/* =======FOOTER======= */
+.contacts {
+  font-style: inherit;
+}
+
+.contacts .link {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.contacts .post {
+  color: #ffffff;
+}
+
+.contacts-link:hover,
+.contacts-link:focus {
+  color: #2196f3;
+}
+/* =======END FOOTER======= */
