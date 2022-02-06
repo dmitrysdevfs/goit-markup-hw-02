@@ -104,6 +104,7 @@ body {
 
 /* ======= START HERO STYLES ======= */
 .main-title {
+  font-weight: 900;
   font-size: 44px;
   line-height: 1.36;
   text-align: center;
@@ -135,6 +136,7 @@ body {
 }
 
 .features-title {
+  font-size: 14px;
   font-weight: 700;
   line-height: 1.14;
   letter-spacing: 0.03em;
